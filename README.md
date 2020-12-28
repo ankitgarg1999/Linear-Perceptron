@@ -1,2 +1,1 @@
-# newGit
-Instructions for the people, trying to use your repository
+A jupyter notebook, that learns a binary linear classifier using perceptron algorithm
